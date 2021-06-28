@@ -1,0 +1,17 @@
+#contactMeTableDivider {
+    padding-top: 200px;
+}
+
+#toBeContinued{
+    padding: 8px;
+    align-content: center;
+}
+
+body{
+    margin-top: 0px;
+}
+
+#netflixPartyText {
+    align-self: flex-end;
+    text-decoration: none;
+}
